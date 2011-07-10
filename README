@@ -1,0 +1,8 @@
+Welcome to Scheman.
+
+Scheman is Ruby script that works well when called inside your Rails 
+project with Active Record framework.
+
+Scheman is primary written for PostgreSql database, and enables runtime 
+database and schema switch and other operations for working with 
+yaml configuration and database migrations.
